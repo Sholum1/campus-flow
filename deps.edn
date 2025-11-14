@@ -1,0 +1,4 @@
+{:paths ["src"]
+
+ :deps {com.datomic/peer                 {:mvn/version "1.0.7469"}
+        com.github.mainej/schema-voyager {:mvn/version "2.0.240"}}}
